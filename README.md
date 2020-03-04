@@ -2,8 +2,8 @@
 
 ### Part 1: Instruction
 Watch the following video to help you get started on this lesson. Take notes on your copy of the slides so you can refer back to the information later.
-- ~~[comparison operators]()~~ _(coming soon)_
-- ~~[logical operators]()~~ _(coming soon)_
+- [comparison operators](https://www.youtube.com/watch?v=GkRz4L8tUPc)
+- [logical operators](https://www.youtube.com/watch?v=DTvXRBI9p08)
 
 ### Part 2: Exploration
 1. Open up the [cs50 IDE](https://ide.cs50.io).
